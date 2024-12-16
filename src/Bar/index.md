@@ -1,3 +1,5 @@
+https://dev-crm.chongpangpang.com/crm-bff-app/presentation/customer/goods/v2/recommend/home
+
 # Bar
 
 This is an example component of Vue SFC.
