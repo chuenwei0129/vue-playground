@@ -9,5 +9,7 @@ export default defineConfig({
   themeConfig: {
     name: 'vue-playground',
   },
+  plugins: ['@umijs/plugins/dist/tailwindcss'],
+  tailwindcss: {},
   presets: [require.resolve('@dumijs/preset-vue')],
 });

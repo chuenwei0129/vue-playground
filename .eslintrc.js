@@ -9,5 +9,7 @@ module.exports = {
       jsx: true,
     },
   },
-  rules: {},
+  rules: {
+    'vue/max-attributes-per-line': 'off',
+  },
 };
